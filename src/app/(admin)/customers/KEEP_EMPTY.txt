@@ -1,0 +1,8 @@
+ROUTE CONFLICT PREVENTION
+
+This directory should remain empty to prevent route conflicts.
+
+The working customers page is located at:
+src/app/(admin)/(others-pages)/customers/page.tsx
+
+Do not create any page.tsx file in this directory.

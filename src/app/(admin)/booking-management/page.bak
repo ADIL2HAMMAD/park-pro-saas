@@ -1,0 +1,4 @@
+DISABLED_PAGE_FILE_BACKUP
+
+This was the original page.tsx file that caused route conflicts.
+The file was renamed to .bak to prevent Next.js from detecting it as a route.
